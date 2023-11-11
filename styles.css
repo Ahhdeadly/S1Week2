@@ -1,0 +1,18 @@
+/* styles.css */
+
+body{
+	color: red;
+	background-color:  #ccffcc;
+	font-family: 'Pixelify Sans', cursive;
+}
+th{
+	border: 2px solid black;
+	padding: 20px;
+}
+td{
+	border: 3px solid black;
+	padding: 5px;
+}
+table{
+	border: 5px solid black;
+}
